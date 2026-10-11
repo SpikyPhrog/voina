@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git Projects\\voina\\Voina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{788DE605-1709-4BA5-B3B8-BBCBA0589FC4}|Voina\\Voina.vcxproj|D:\\Git Projects\\voina\\Voina\\Voina\\Voina.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{788DE605-1709-4BA5-B3B8-BBCBA0589FC4}|Voina\\Voina.vcxproj|solutionrelative:Voina\\Voina.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Voina.cpp",
+              "DocumentMoniker": "D:\\Git Projects\\voina\\Voina\\Voina\\Voina.cpp",
+              "RelativeDocumentMoniker": "Voina\\Voina.cpp",
+              "ToolTip": "D:\\Git Projects\\voina\\Voina\\Voina\\Voina.cpp",
+              "RelativeToolTip": "Voina\\Voina.cpp",
+              "ViewState": "AQIAAC8CAAAAAAAAAAAQwDgCAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T16:00:53.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+The following is a "plain English" license explaining the acceptable use of this font. Use or distribution of this font implies you consent to this license agreement.
+The intent of this license is to allow no-cost, no-attribution use and no-cost access to this font while prohibiting the distribution of modified or incomplete versions of the font or its glyphs. The following sections attempt to codify this. If a question arises, the simplest interpretation consistent with the intent of this license is the correct interpretation.
+1. You may use and/or distribute this font for any purpose with the following exceptions:
+	a. You are not allowed to distribute this font file without a copy of this license.
+	b. You are not allowed to restrict the right of others to use and/or distribute this font.
+	c. You are not allowed to convert and distribute this font, or any portion of this font, to another format (for example, .svg, .ttf).
+	d. You are not allowed to modify this font's source code and/or distribute a modified version of this font.
+	e. You are not allowed to embed this font, in whole or in part, in another font.
+2. Commercial use and/or distrubtion of this font has the following additional requirements:
+	a. You are allowed to use or include this font with digital editing products (such as but not limited to an online design tool), but you must provide a free and unrestricted method for users to obtain this font (for example, a direct download or a working link to another website).
+	b. Commercial use of this font does not include the right to sell or resell this font (and/or its source code) by itself nor as part of a collection of fonts.
+3. Personal and/or commercial use of this font is otherwise unrestricted.
